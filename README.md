@@ -4,6 +4,23 @@
 [![Version](https://img.shields.io/jetbrains/plugin/v/MARKETPLACE_ID.svg)](https://plugins.jetbrains.com/plugin/MARKETPLACE_ID)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/MARKETPLACE_ID.svg)](https://plugins.jetbrains.com/plugin/MARKETPLACE_ID)
 
+## Language Plugin Todos
+
+### Plugins
+
+* [Reference and tutorial](https://plugins.jetbrains.com/docs/intellij/custom-language-support-tutorial.html)
+* When using IntelliJ IDEA 2023.3 or later, the Plugin DevKit plugin must be installed from JetBrains Marketplace (Plugin Homepage) as it is no longer bundled with the IDE.
+* GrammarKit Plugin
+* PsiViewer Plugin
+* Optionally, download the Intellij CE source code to better debug the plugin (https://github.com/JetBrains/intellij-community/blob/idea/242.20224.300/README.md)
+  <USER_HOME> is your home directory.
+  <IDEA_HOME> is the root directory for the IntelliJ source code.
+
+## Parts
+
+1) Install the plugins above
+2) 
+
 ## Template ToDo list
 - [x] Create a new [IntelliJ Platform Plugin Template][template] project.
 - [ ] Get familiar with the [template documentation][template].
